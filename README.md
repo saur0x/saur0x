@@ -7,7 +7,7 @@
 			 align="center"
 			 src="https://github-readme-stats.vercel.app/api?username=saur0x&show_icons=true&theme=solarized-dark"
 			 alt="saur0x' GitHub stats"
-			 height="200"
+			 height="150"
 		/>
 	</a>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
@@ -15,7 +15,7 @@
 			 align="center"
 			 src="https://github-readme-stats.vercel.app/api/top-langs/?username=saur0x&langs_count=10&layout=compact&theme=solarized-dark"
 			 alt="saur0x' Top Languages"
-			 height="200"
+			 height="150"
 		/>
 	</a>
 </div>
