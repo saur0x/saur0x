@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm saur0x 👋
 
 <!--
 **saur0x/saur0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![saur0x' GitHub stats](https://github-readme-stats.vercel.app/api?username=saur0x&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saur0x&langs_count=10&layout=compact&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
