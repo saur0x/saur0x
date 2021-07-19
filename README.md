@@ -18,7 +18,11 @@
 			 height="150"
 		/>
 	</a>
+	<p>
+		Why yes, I do love Solarized. How could you tell?
+	</p>
 </div>
+
 
 <!--
 **saur0x/saur0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
